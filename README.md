@@ -1,5 +1,5 @@
 # First-Shiny-App
-First Shiny App From Scratch
+First Shiny App From Tutorial
 
 Goals: 
 
